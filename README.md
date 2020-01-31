@@ -1,4 +1,4 @@
-Ansteuerung von Funksteckdosen auf 433Hz-Frequenz
+Ansteuerung von Funksteckdosen auf 433Hz-Frequenz basierend auf dem folgenden Tutorial:
 https://tutorials-raspberrypi.de/raspberry-pi-funksteckdosen-433-mhz-steuern/
 
 
