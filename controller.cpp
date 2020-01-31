@@ -1,4 +1,4 @@
-#include "/rc-switch/RCSwitch.h"
+#include "rc-switch/RCSwitch.h"
 #include <stdlib.h>
 #include <stdio.h>
  
