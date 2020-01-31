@@ -1,3 +1,8 @@
+Ansteuerung von Funksteckdosen auf 433Hz-Frequenz
+https://tutorials-raspberrypi.de/raspberry-pi-funksteckdosen-433-mhz-steuern/
+
+
+--------------------
 # About 433Utils
 
 433Utils is a collection of code and documentation designed to assist you in the connection and usage of RF 433MHz transmit and receive modules to/with your Arduino and Rapberry Pi.
